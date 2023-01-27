@@ -1,0 +1,57 @@
+[
+    {
+        "id": 0,
+        "customerName": "John",
+        "phoneNumber": "555-1234",
+        "address": "1234 Elm St",
+        "loanAmount": "1000",
+        "interest": "10",
+        "loanTermYears": "5",
+        "loanType": "Personal",
+        "description": "loan description"
+    },
+    {
+        "id": 1,
+        "customerName": "Sarah",
+        "phoneNumber": "555-5678",
+        "address": "5678 Baker St",
+        "loanAmount": "4000",
+        "interest": "8",
+        "loanTermYears": "10",
+        "loanType": "Business",
+        "description": "loan description"
+    },
+    {
+        "id": 2,
+        "customerName": "Mark",
+        "phoneNumber": "555-1379",
+        "address": "1379 Washington St",
+        "loanAmount": "2000",
+        "interest": "6",
+        "loanTermYears": "3",
+        "loanType": "Personal",
+        "description": "loan description"
+    },
+    {
+        "id": 3,
+        "customerName": "Lisa",
+        "phoneNumber": "555-9731",
+        "address": "9731 Greene St",
+        "loanAmount": "500",
+        "interest": "15",
+        "loanTermYears": "1",
+        "loanType": "Personal",
+        "description": "loan description"
+    },
+    {
+        "id": 4,
+        "customerName": "Jed",
+        "phoneNumber": "555-2846",
+        "address": "2846 Reed St",
+        "loanAmount": "80000",
+        "interest": "9",
+        "loanTermYears": "12",
+        "loanType": "Business",
+        "description": "loan description"
+    }
+]
